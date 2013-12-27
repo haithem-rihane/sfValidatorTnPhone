@@ -3,7 +3,7 @@
 /**
  * sfValidatorTnPhone validates a phone number in Tunisia. 
  *
- * @author     Haithem RIHANE <haithem.rihane@gmail.com.com>
+ * @author     Haithem RIHANE <haithem.rihane@gmail.com>
  */
 class sfValidatorTnPhone extends sfValidatorRegex {
 
